@@ -1,3 +1,3 @@
-sample([1,2,3,4])
+import {add, sample} from "./utils.js"
+sample([1,3,3])
 add(1,2)
-
